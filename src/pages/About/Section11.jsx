@@ -24,12 +24,12 @@ const Section11 = () => {
             <Swiper
                 modules={[Pagination, Autoplay]}
                 spaceBetween={30}
-                slidesPerView={3}
+                slidesPerView={1}
                 autoplay={{ delay: 5000, disableOnInteraction: false }}
                 pagination={{ clickable: true, el: '.section11-dots' }}
                 breakpoints={{
-                    320: { slidesPerView: 1 },
-                    768: { slidesPerView: 2 },
+                    0: { slidesPerView: 1 },
+                    640: { slidesPerView: 2 },
                     1024: { slidesPerView: 3 },
                 }}
                 className="section11-swiper"
