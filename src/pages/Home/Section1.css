@@ -187,39 +187,40 @@
 
 @media (max-width: 330px) {
     .section1-container {
-        padding: 0 10px;
+        padding: 0 5px;
     }
 
     .section1-slide-content {
-        padding: 30px 10px;
-        min-height: 380px;
+        padding: 20px 5px;
+        min-height: 350px;
     }
 
     .section1-text-side h1 {
-        font-size: 20px;
-        margin-bottom: 15px;
-    }
-
-    .section1-apple {
-        gap: 8px;
+        font-size: 18px;
         margin-bottom: 10px;
     }
 
+    .section1-apple {
+        gap: 6px;
+        margin-bottom: 8px;
+    }
+
     .section1-apple img {
-        width: 20px;
+        width: 18px;
     }
 
     .section1-apple span {
-        font-size: 12px;
+        font-size: 11px;
     }
 
     .shop-text {
-        font-size: 14px;
+        font-size: 13px;
     }
 
     .section1-img-side img {
-        height: 140px;
-        margin-bottom: 15px;
+        height: 120px;
+        margin-bottom: 10px;
+        max-width: 100%;
     }
 
     .swiper-pagination-bullet {

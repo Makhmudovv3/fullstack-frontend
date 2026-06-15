@@ -60,4 +60,16 @@ img {
   :root {
     --max-width: 100%;
   }
+  .container {
+    padding: 0 10px;
+  }
+}
+
+@media (max-width: 320px) {
+  .container {
+    padding: 0 5px;
+  }
+  body {
+    font-size: 14px;
+  }
 }

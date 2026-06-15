@@ -227,14 +227,29 @@
 }
 
 @media (max-width: 480px) {
+    .cart-table {
+        display: block;
+        overflow-x: auto;
+        white-space: nowrap;
+    }
+
     .cart-product span {
         display: -webkit-box;
         -webkit-box-orient: vertical;
         overflow: hidden;
     }
 
+    .coupon-section {
+        flex-direction: column;
+        width: 100%;
+    }
+
     .coupon-section input {
         width: 100%;
+    }
+
+    .cart-total-card {
+        padding: 20px 15px;
     }
 }
 
@@ -271,10 +286,12 @@
     .btn-outline {
         padding: 10px 15px;
         font-size: 12px;
+        width: 100%;
     }
 
     .cart-actions {
         flex-direction: column;
         gap: 10px;
+        width: 100%;
     }
 }
