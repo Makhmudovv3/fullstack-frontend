@@ -10,9 +10,13 @@ const transformProduct = (product) => {
   let imgPath = '/assets/no-img.png';
   
   if (image) {
-    imgPath = (image.startsWith('http') || image.startsWith('data:')) 
-      ? image 
-      : `/assets/${image}`;
+    if (image.startsWith('http') || image.startsWith('data:')) {
+      imgPath = image;
+    } else if (image.startsWith('/')) {
+      imgPath = image;
+    } else {
+      imgPath = `https://fullstack-backend-tplh.onrender.com/uploads/${image}`;
+    }
   }
 
   return {
