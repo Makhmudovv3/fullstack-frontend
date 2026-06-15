@@ -46,22 +46,6 @@
 
 @media (max-width: 480px) {
     .section12-services {
-        gap: 40px;
-    }
-
-    .section12-h {
-        font-size: 18px;
-    }
-
-    .section12-icon-box {
-        width: 70px;
-        height: 70px;
-        border-width: 8px;
-    }
-}
-
-@media (max-width: 330px) {
-    .section12-services {
         gap: 30px;
         padding-bottom: 40px;
     }

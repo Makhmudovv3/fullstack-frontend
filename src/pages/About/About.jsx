@@ -10,7 +10,7 @@ const About = () => {
     const { t } = useTranslation();
 
     return (
-        <div className="about-page-wrapper" style={{ maxWidth: '1170px', margin: '80px auto', padding: '0 15px' }}>
+        <div className="about-page-wrapper" style={{ maxWidth: '1170px', width: '100%', margin: '80px auto', padding: '0 15px', overflowX: 'hidden' }}>
             <div className="about-breadcrumb" style={{ marginBottom: '40px' }}>
                 <Link to="/" style={{ textDecoration: 'none', color: '#7D8184' }}>{t('about.home')}</Link>
                 <span style={{ margin: '0 10px', color: '#7D8184' }}>/</span>

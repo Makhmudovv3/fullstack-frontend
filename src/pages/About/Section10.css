@@ -90,8 +90,9 @@
 
 @media (max-width: 480px) {
     .section10-stats {
-        grid-template-columns: repeat(2, 1fr);
+        grid-template-columns: 1fr;
         gap: 16px;
+        margin-bottom: 60px;
     }
 
     .section10-icon-outer {
@@ -112,38 +113,5 @@
 
     .section10-label {
         font-size: 12px;
-    }
-}
-
-@media (max-width: 330px) {
-    .section10-stats {
-        grid-template-columns: 1fr;
-        gap: 10px;
-        margin-bottom: 60px;
-        padding: 0;
-    }
-
-    .section10-card {
-        padding: 15px 5px;
-    }
-
-    .section10-icon-outer {
-        width: 50px;
-        height: 50px;
-        margin-bottom: 10px;
-    }
-
-    .section10-icon-inner {
-        width: 36px;
-        height: 36px;
-    }
-
-    .section10-count {
-        font-size: 16px;
-        margin-bottom: 4px;
-    }
-
-    .section10-label {
-        font-size: 11px;
     }
 }

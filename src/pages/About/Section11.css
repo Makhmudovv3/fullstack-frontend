@@ -100,20 +100,19 @@
 
 @media (max-width: 480px) {
     .section11-info {
-        padding: 20px 0;
+        padding: 15px 0;
         text-align: center;
     }
 
     .section11-socials {
         justify-content: center;
+        gap: 15px;
     }
 
     .section11-name {
-        font-size: 22px;
+        font-size: 20px !important;
+        margin-bottom: 4px;
     }
-}
-
-@media (max-width: 330px) {
 
     .section11-img-holder {
         width: 100%;
@@ -135,24 +134,9 @@
         display: block;
     }
 
-    .section11-info {
-        padding: 15px 0;
-        text-align: center;
-    }
-
-    .section11-name {
-        font-size: 20px !important;
-        margin-bottom: 4px;
-    }
-
     .section11-role {
         font-size: 14px;
         margin-bottom: 12px;
-    }
-
-    .section11-socials {
-        justify-content: center;
-        gap: 15px;
     }
 
     .section11-dots {

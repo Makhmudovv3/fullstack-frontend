@@ -51,22 +51,6 @@
 
 @media (max-width: 480px) {
     .section9-story {
-        gap: 30px;
-        margin-bottom: 60px;
-    }
-
-    .section9-title {
-        font-size: 28px;
-    }
-
-    .section9-text {
-        font-size: 14px;
-        line-height: 22px;
-    }
-}
-
-@media (max-width: 330px) {
-    .section9-story {
         flex-direction: column-reverse;
         gap: 20px;
         margin-bottom: 50px;
