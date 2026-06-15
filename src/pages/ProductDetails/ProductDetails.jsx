@@ -60,7 +60,8 @@ const ProductDetails = () => {
             setLoading(true);
             
             // Check static products first
-            const staticMatch = staticProducts.find(p => String(p.id) === String(id));
+            const numericId = String(id).replace('static-', '');
+            const staticMatch = staticProducts.find(p => String(p.id) === numericId);
             if (staticMatch) {
                 setProduct(staticMatch);
                 setLoading(false);

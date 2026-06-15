@@ -227,32 +227,37 @@
 @media (max-width: 330px) {
     .section4-container {
         margin: 40px auto;
-        padding: 0 10px;
+        padding: 0 5px;
     }
 
     .section4-title {
-        font-size: 24px;
+        font-size: 20px;
     }
 
     .section4-grid {
-        grid-template-columns: 1fr;
-        gap: 25px;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 10px;
     }
 
     .section4-card-top {
-        height: 200px;
+        height: 140px;
     }
 
     .section4-card-top img {
-        max-width: 140px;
+        max-width: 100px;
     }
 
     .product-name {
-        font-size: 15px;
+        font-size: 12px;
     }
 
     .section4-current-price,
     .section4-old-price {
+        font-size: 12px;
+    }
+
+    .section4-view-all-top {
+        padding: 12px 24px;
         font-size: 14px;
     }
 }

@@ -287,4 +287,64 @@
     .section2-swiper .swiper-wrapper {
         gap: 10px !important;
     }
+
+    .section2-container {
+        padding: 0 10px;
+    }
+
+    .section2-card-top {
+        height: 160px;
+    }
+
+    .unit-value {
+        font-size: 24px;
+    }
+
+    .section2-separator {
+        font-size: 20px;
+    }
+
+    .product-name {
+        font-size: 13px;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+}
+
+@media (max-width: 330px) {
+    .section2-container {
+        padding: 0 5px;
+    }
+
+    .section2-swiper .swiper-wrapper {
+        grid-template-columns: repeat(2, 1fr) !important;
+        gap: 8px !important;
+    }
+
+    .section2-card-top {
+        height: 130px;
+    }
+
+    .section2-card-top img {
+        max-width: 90px;
+        max-height: 100px;
+    }
+
+    .product-name {
+        font-size: 12px;
+    }
+
+    .section2-title {
+        font-size: 20px;
+    }
+
+    .unit-value {
+        font-size: 20px;
+    }
+
+    .section2-view-all {
+        padding: 12px 32px;
+        font-size: 14px;
+    }
 }

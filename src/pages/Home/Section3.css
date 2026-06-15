@@ -138,44 +138,44 @@
 
 @media (max-width: 330px) {
     .section3-main {
-        padding: 0 10px 30px;
+        padding: 0 8px 30px;
     }
 
     .section3-browse-title {
-        font-size: 22px;
+        font-size: 20px;
     }
 
     .section3-red-label {
-        font-size: 14px;
-        gap: 10px;
+        font-size: 13px;
+        gap: 8px;
     }
 
     .section3-red-label::before {
-        width: 16px;
-        height: 30px;
+        width: 14px;
+        height: 28px;
     }
 
     .section3-categories-grid {
-        grid-template-columns: 1fr;
-        gap: 12px;
-    }
-
-    .section3-category-card {
-        height: 120px;
+        grid-template-columns: repeat(2, 1fr);
         gap: 10px;
     }
 
+    .section3-category-card {
+        height: 110px;
+        gap: 8px;
+    }
+
     .section3-cat-name {
-        font-size: 14px;
+        font-size: 12px;
     }
 
     .section3-cat-nav {
-        width: 38px;
-        height: 38px;
+        width: 36px;
+        height: 36px;
     }
 
     .section3-slider-btns {
         width: 100%;
-        justify-content: space-between;
+        justify-content: flex-end;
     }
 }

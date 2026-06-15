@@ -37,7 +37,7 @@ const Wish = () => {
                 <button
                     className="del-icon"
                     onClick={() => {
-                        dispatch(removeFromWish(Number(item.id)));
+                        dispatch(removeFromWish(item.id));
                         toast.info(t('notifications.removedFromWish'));
                     }}
                 >
@@ -68,32 +68,11 @@ const Wish = () => {
             </div>
 
             {wishlist.length > 0 ? (
-                <>
-                    <div className="wishlist-grid desktop-only">
-                        {wishlist.map((item) => (
-                            <div key={item.id}>{renderCard(item)}</div>
-                        ))}
-                    </div>
-
-                    <div className="wishlist-swiper mobile-only">
-                        <Swiper
-                            modules={[Navigation, Pagination]}
-                            spaceBetween={15}
-                            slidesPerView={1.3}
-                            pagination={{ clickable: true }}
-                            breakpoints={{
-                                480: { slidesPerView: 1.8 },
-                                640: { slidesPerView: 2.2 }
-                            }}
-                        >
-                            {wishlist.map((item) => (
-                                <SwiperSlide key={item.id}>
-                                    {renderCard(item)}
-                                </SwiperSlide>
-                            ))}
-                        </Swiper>
-                    </div>
-                </>
+                <div className="wishlist-grid">
+                    {wishlist.map((item) => (
+                        <div key={item.id}>{renderCard(item)}</div>
+                    ))}
+                </div>
             ) : (
                 <div className="empty-wishlist">
                     <p>{t('not_found.text')}</p>
