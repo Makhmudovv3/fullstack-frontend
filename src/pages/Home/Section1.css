@@ -1,0 +1,229 @@
+.section1-main {
+    padding-top: 40px;
+    background: white;
+}
+
+.section1-container {
+    max-width: 1170px;
+    margin: 0 auto;
+    display: flex;
+    gap: 45px;
+    padding: 0 15px;
+}
+
+.section1-sidebar {
+    width: 250px;
+    border-right: 0.5px solid rgba(0, 0, 0, 0.3);
+    padding-right: 15px;
+    flex-shrink: 0;
+}
+
+.section1-menu-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px 0;
+    font-size: 16px;
+    cursor: pointer;
+    transition: 0.2s;
+}
+
+.section1-menu-item:hover {
+    color: #db4444;
+}
+
+.section1-banner {
+    flex: 1;
+    background-color: black;
+    min-height: 344px;
+    border-radius: 4px;
+    overflow: hidden;
+}
+
+.section1-slide-content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    min-height: 344px;
+    padding: 0 60px;
+    color: white;
+}
+
+.section1-apple {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    margin-bottom: 20px;
+}
+
+.section1-apple img {
+    width: 30px;
+}
+
+.section1-text-side h1 {
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 1.2;
+    margin-bottom: 20px;
+}
+
+.section1-shop-link {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    color: white;
+    text-decoration: none;
+    margin-top: 10px;
+    width: fit-content;
+}
+
+.shop-text {
+    font-size: 16px;
+    font-weight: 500;
+    border-bottom: 1px solid white;
+    padding-bottom: 3px;
+    transition: 0.3s;
+}
+
+.section1-shop-link:hover .shop-text {
+    color: #db4444;
+    border-bottom-color: #db4444;
+}
+
+.section1-img-side img {
+    height: 300px;
+    width: auto;
+    object-fit: contain;
+}
+
+.swiper-pagination-bullet {
+    background: #808080 !important;
+    opacity: 1 !important;
+}
+
+.swiper-pagination-bullet-active {
+    background: #db4444 !important;
+    border: 2px solid white;
+}
+
+@media (max-width: 1024px) {
+    .section1-container {
+        gap: 25px;
+    }
+
+    .section1-sidebar {
+        width: 200px;
+    }
+
+    .section1-text-side h1 {
+        font-size: 38px;
+    }
+
+    .section1-slide-content {
+        padding: 0 30px;
+    }
+
+    .section1-img-side img {
+        height: 250px;
+    }
+}
+
+@media (max-width: 900px) {
+    .section1-main {
+        padding-top: 0;
+    }
+
+    .section1-container {
+        flex-direction: column;
+        gap: 0;
+    }
+
+    .section1-sidebar {
+        display: none;
+    }
+
+    .section1-banner {
+        width: 100%;
+        height: auto;
+    }
+}
+
+@media (max-width: 650px) {
+    .section1-slide-content {
+        flex-direction: column-reverse;
+        justify-content: center;
+        text-align: center;
+        padding: 40px 20px;
+        min-height: 450px;
+    }
+
+    .section1-apple {
+        justify-content: center;
+    }
+
+    .section1-text-side h1 {
+        font-size: 28px;
+    }
+
+    .section1-shop-link {
+        margin: 0 auto;
+    }
+
+    .section1-img-side img {
+        height: 180px;
+        margin-bottom: 20px;
+    }
+}
+
+@media (max-width: 480px) {
+    .section1-text-side h1 {
+        font-size: 24px;
+    }
+
+    .section1-banner {
+        min-height: 400px;
+    }
+}
+
+@media (max-width: 330px) {
+    .section1-container {
+        padding: 0 10px;
+    }
+
+    .section1-slide-content {
+        padding: 30px 10px;
+        min-height: 380px;
+    }
+
+    .section1-text-side h1 {
+        font-size: 20px;
+        margin-bottom: 15px;
+    }
+
+    .section1-apple {
+        gap: 8px;
+        margin-bottom: 10px;
+    }
+
+    .section1-apple img {
+        width: 20px;
+    }
+
+    .section1-apple span {
+        font-size: 12px;
+    }
+
+    .shop-text {
+        font-size: 14px;
+    }
+
+    .section1-img-side img {
+        height: 140px;
+        margin-bottom: 15px;
+    }
+
+    .swiper-pagination-bullet {
+        width: 6px !important;
+        height: 6px !important;
+    }
+}

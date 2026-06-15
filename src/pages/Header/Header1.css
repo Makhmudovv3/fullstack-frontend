@@ -1,0 +1,79 @@
+.header1-top-bar {
+    background-color: #000000;
+    color: #ffffff;
+    padding: 12px 0;
+    font-family: 'Poppins', sans-serif;
+    width: 100%;
+    position: relative;
+    z-index: 5000 !important;
+}
+
+.header1-container {
+    max-width: 1170px;
+    margin: 0 auto;
+    padding: 0 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.header1-content {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+}
+
+.header1-sale-text {
+    margin: 0;
+    font-size: 14px;
+}
+
+.header1-shop-now {
+    color: #ffffff;
+    font-weight: 600;
+    text-decoration: underline;
+    margin-left: 8px;
+    cursor: pointer;
+}
+
+.header1-language-wrapper {
+    position: relative;
+    margin-left: 20px;
+}
+
+.header1-language-selector {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    cursor: pointer;
+}
+
+.header1-language-dropdown {
+    position: absolute;
+    top: 100%;
+    right: 0;
+    background-color: #ffffff;
+    color: #000000;
+    list-style: none;
+    margin-top: 10px;
+    padding: 5px 0;
+    border-radius: 4px;
+    box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.3);
+    min-width: 110px;
+    z-index: 9999 !important;
+}
+
+.header1-language-dropdown li {
+    padding: 8px 15px;
+    cursor: pointer;
+}
+
+.header1-language-dropdown li:hover {
+    background-color: #f0f0f0;
+}
+
+@media (max-width: 850px) {
+    .header1-top-bar {
+        display: none;
+    }
+}

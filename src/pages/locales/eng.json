@@ -1,0 +1,345 @@
+{
+    "categories": {
+        "woman": "Woman’s Fashion",
+        "men": "Men’s Fashion",
+        "electronics": "Electronics",
+        "home": "Home & Lifestyle",
+        "medicine": "Medicine",
+        "sports": "Sports & Outdoor",
+        "baby": "Baby’s & Toys",
+        "groceries": "Groceries & Pets",
+        "health": "Health & Beauty"
+    },
+    "hero": {
+        "iphone": "iPhone 14 Series",
+        "voucher": "Up to 10% off Voucher",
+        "shopNow": "Shop Now"
+    },
+    "section2": {
+        "label": "Today's",
+        "title": "Flash Sales",
+        "viewAll": "View All Products",
+        "addToCart": "Add To Cart",
+        "basket": "Add to Cart",
+        "timer": {
+            "Days": "Days",
+            "Hours": "Hours",
+            "Minutes": "Minutes",
+            "Seconds": "Seconds"
+        }
+    },
+    "products": {
+        "gamepad": "HAVIT HV-G92 Gamepad",
+        "keyboard": "AK-900 Wired Keyboard",
+        "monitor": "IPS LCD Gaming Monitor",
+        "chair": "S-Series Comfort Chair"
+    },
+    "section3": {
+        "redLabel": "Categories",
+        "title": "Browse By Category",
+        "catNames": {
+            "Phones": "Phones",
+            "Computers": "Computers",
+            "SmartWatch": "SmartWatch",
+            "Camera": "Camera",
+            "HeadPhones": "HeadPhones",
+            "Gaming": "Gaming"
+        }
+    },
+    "section4": {
+        "label": "This Month",
+        "title": "Best Selling Products",
+        "viewAll": "View All",
+        "addToCart": "Add To Cart",
+        "basket": "Add to Cart"
+    },
+    "bestSellers": {
+        "coat": "The north coat",
+        "bag": "Gucci duffle bag",
+        "cooler": "RGB liquid CPU Cooler",
+        "shelf": "Small BookShelf"
+    },
+    "section5": {
+        "category": "Categories",
+        "title": "Enhance Your Music Experience",
+        "buyNow": "Buy Now!",
+        "timer": {
+            "days": "Days",
+            "hours": "Hours",
+            "mins": "Minutes",
+            "secs": "Seconds"
+        }
+    },
+    "section6": {
+        "label": "Our Products",
+        "title": "Explore Our Products",
+        "viewAll": "View All Products",
+        "addToCart": "Add To Cart",
+        "basket": "Add To Cart",
+        "new": "NEW"
+    },
+    "products_list": {
+        "dogFood": "Breed Dry Dog Food",
+        "camera": "CANON EOS DSLR Camera",
+        "laptop": "ASUS FHD Gaming Laptop",
+        "curology": "Curology Product Set",
+        "car": "Kids Electric Car",
+        "shoes": "Jr. Zoom Soccer Cleats",
+        "gamepad": "GP11 Shooter USB Gamepad",
+        "jacket": "Quilted Satin Jacket"
+    },
+    "section7": {
+        "badge": "Featured",
+        "title": "New Arrival",
+        "shopNow": "Shop Now",
+        "ps5": {
+            "title": "PlayStation 5",
+            "desc": "Black and White version of the PS5 coming out on sale."
+        },
+        "woman": {
+            "title": "Women’s Collections",
+            "desc": "Featured woman collections that give you another vibe."
+        },
+        "speakers": {
+            "title": "Speakers",
+            "desc": "Amazon wireless speakers"
+        },
+        "perfume": {
+            "title": "Perfume",
+            "desc": "GUCCI INTENSE OUD EDP"
+        }
+    },
+    "section8": {
+        "deliveryTitle": "FREE AND FAST DELIVERY",
+        "deliveryDesc": "Free delivery for all orders over $140",
+        "serviceTitle": "24/7 CUSTOMER SERVICE",
+        "serviceDesc": "Friendly 24/7 customer support",
+        "moneyTitle": "MONEY BACK GUARANTEE",
+        "moneyDesc": "We return money within 30 days"
+    },
+    "product_details": {
+        "reviews": "Reviews",
+        "inStock": "In Stock",
+        "colours": "Colours:",
+        "size": "Size:",
+        "buyNow": "Buy Now",
+        "freeDelivery": "Free Delivery",
+        "postalCode": "Enter your postal code",
+        "returnDelivery": "Return Delivery",
+        "returnText": "Free 30 Days Returns",
+        "loading": "Loading..."
+    },
+    "products_desc": {
+        "gamepad": "PlayStation 5 Controller Skin High quality vinyl.",
+        "keyboard": "RGB Backlit mechanical keyboard.",
+        "monitor": "Ultra-wide gaming monitor 144Hz.",
+        "chair": "Ergonomic gaming chair.",
+        "coat": "Warm winter coat waterproof.",
+        "bag": "Luxury leather duffle bag.",
+        "cooler": "High-performance cooling system.",
+        "shelf": "Compact wooden bookshelf.",
+        "dogFood": "Healthy dry food for dogs.",
+        "camera": "Professional DSLR camera.",
+        "laptop": "Powerful gaming laptop.",
+        "curology": "Complete skincare set.",
+        "car": "Electric car for kids.",
+        "shoes": "Professional soccer cleats.",
+        "shooterGamepad": "USB gamepad for PC.",
+        "jacket": "Stylish quilted jacket."
+    },
+    "auth": {
+        "signUpTitle": "Create an account",
+        "signUpSubtitle": "Enter your details below",
+        "namePlaceholder": "Name",
+        "emailPlaceholder": "Email",
+        "passwordPlaceholder": "Password",
+        "createBtn": "Create Account",
+        "googleBtn": "Sign up with Google",
+        "alreadyHave": "Already have account?",
+        "loginLink": "Log in",
+        "success": "Success!",
+        "googleSuccess": "Signed in with Google!",
+        "emailError": "Email already in use!",
+        "logoutSuccess": "Logged out successfully!",
+        "noAccount": "Don't have an account?",
+        "signUpLink": "Sign Up"
+    },
+    "not_found": {
+        "breadcrumbHome": "Home",
+        "breadcrumbError": "404 Error",
+        "title": "404 Not Found",
+        "text": "The page you are looking for might have been removed or is temporarily unavailable.",
+        "backBtn": "Back to home page"
+    },
+    "footer": {
+        "subscribe": "Subscribe",
+        "offer": "Get 10% off your first order",
+        "emailPlaceholder": "Enter your email",
+        "support": "Support",
+        "address": "111 Bijoy sarani, Dhaka, Bangladesh.",
+        "account": "Account",
+        "myAccount": "My Account",
+        "loginRegister": "Login / Register",
+        "cart": "Cart",
+        "wishlist": "Wishlist",
+        "shop": "Shop",
+        "quickLink": "Quick Link",
+        "privacyPolicy": "Privacy Policy",
+        "termsOfUse": "Terms Of Use",
+        "faq": "FAQ",
+        "contact": "Contact",
+        "downloadApp": "Download App",
+        "appOffer": "Save $3 with App New User Only",
+        "googlePlay": "Google Play",
+        "appStore": "App Store",
+        "copyright": "© Rimel 2022. All rights reserved"
+    },
+    "header": {
+        "home": "Home",
+        "contact": "Contact",
+        "about": "About",
+        "signup": "Sign Up",
+        "searchPlaceholder": "What are you looking for?",
+        "profile": {
+            "manage": "Manage My Account",
+            "orders": "My Orders",
+            "cancellations": "My Cancellations",
+            "reviews": "My Reviews",
+            "logout": "Logout"
+        }
+    },
+    "top_bar_sale_text": "Summer Sale For All Swim Suits - OFF 50%!",
+    "shopNow": "Shop Now",
+    "account": {
+        "welcome": "Welcome!",
+        "breadcrumb": {
+            "home": "Home",
+            "myAccount": "My Account"
+        },
+        "sidebar": {
+            "manageAccount": "Manage My Account",
+            "profile": "My Profile",
+            "addressBook": "Address Book",
+            "paymentOptions": "Payment Options",
+            "myOrders": "My Orders",
+            "returns": "My Returns",
+            "cancellations": "My Cancellations",
+            "wishlist": "My WishList"
+        },
+        "form": {
+            "title": "Edit Your Profile",
+            "firstName": "First Name",
+            "lastName": "Last Name",
+            "email": "Email",
+            "address": "Address",
+            "passwordChanges": "Password Changes",
+            "cancel": "Cancel",
+            "save": "Save Changes",
+            "placeholders": {
+                "currentPass": "Current Password",
+                "newPass": "New Password",
+                "confirmPass": "Confirm"
+            }
+        }
+    },
+    "contact": {
+        "home": "Home",
+        "title": "Contact",
+        "callToUs": "Call To Us",
+        "availableInfo": "We are available 24/7, 7 days a week.",
+        "write ToUs": "Write To Us",
+        "emailInfo": "Fill out our form and we will contact you within 24 hours.",
+        "yourName": "Your Name *",
+        "yourEmail": "Your Email *",
+        "yourPhone": "Your Phone *",
+        "yourMessage": "Your Message",
+        "sendMessage": "Send Message",
+        "success_msg": "Message sent successfully!",
+        "error_msg": "An error occurred. Please try again.",
+        "network_error": "Please check your internet connection.",
+        "writeToUs": "Write To Us"
+    },
+    "about": {
+        "home": "Home",
+        "title": "About",
+        "story_title": "Our Story",
+        "story_p1": "Launched in 2015, Exclusive is South Asia’s premier online shopping marketplace with an active presence in Bangladesh. Supported by a wide range of tailored marketing, data and service solutions.",
+        "story_p2": "Exclusive has more than 1 Million products to offer, growing very fast. Exclusive offers a diverse assortment in categories ranging from consumer electronics.",
+        "stats_sellers": "Sellers active our site",
+        "stats_monthly": "Monthly Product Sale",
+        "stats_customers": "Customer active in our site",
+        "stats_annual": "Annual gross sale in our site",
+        "service_delivery_h": "FREE AND FAST DELIVERY",
+        "service_delivery_p": "Free delivery for all orders over $140",
+        "service_support_h": "24/7 CUSTOMER SERVICE",
+        "service_support_p": "Friendly 24/7 customer support",
+        "service_secure_h": "MONEY BACK GUARANTEE",
+        "service_secure_p": "We return money within 30 days"
+    },
+    "cart": {
+        "home": "Home",
+        "title": "Cart",
+        "empty_title": "Your cart is currently empty",
+        "empty_text": "But it's easy to fix — great products are waiting for you in our store!",
+        "table": {
+            "product": "Product",
+            "price": "Price",
+            "quantity": "Quantity",
+            "subtotal": "Subtotal"
+        },
+        "btns": {
+            "return": "Return To Shop",
+            "update": "Update Cart",
+            "apply": "Apply Coupon",
+            "checkout": "Process to checkout"
+        },
+        "coupon": {
+            "placeholder": "Coupon Code"
+        },
+        "total": {
+            "title": "Cart Total",
+            "subtotal": "Subtotal",
+            "shipping": "Shipping",
+            "free": "Free",
+            "total": "Total"
+        }
+    },
+    "notifications": {
+        "addedToCart": "Product added to cart",
+        "addedToWish": "Product added to wishlist",
+        "removedFromWish": "Product removed from wishlist",
+        "login_required": "Please log in to place an order!",
+        "cart_empty": "Your cart is currently empty!",
+        "order_success": "Your order has been successfully placed!",
+        "error_msg": "An error occurred. Please try again.",
+        "network_error": "Please check your internet connection."
+    },
+    "breadcrumbs": {
+        "account": "Account",
+        "my_account": "My Account",
+        "product": "Product",
+        "view_cart": "View Cart",
+        "checkout": "CheckOut"
+    },
+    "checkout": {
+        "billing_details": "Billing Details",
+        "first_name": "First Name",
+        "company_name": "Company Name",
+        "street_address": "Street Address",
+        "apartment": "Apartment, floor, etc. (optional)",
+        "city": "Town/City",
+        "phone": "Phone Number",
+        "email": "Email Address",
+        "save_info": "Save this information for faster check-out next time",
+        "subtotal": "Subtotal",
+        "shipping": "Shipping",
+        "free": "Free",
+        "total": "Total",
+        "bank": "Bank",
+        "cash": "Cash on delivery",
+        "coupon_code": "Coupon Code",
+        "apply_coupon": "Apply Coupon",
+        "place_order": "Place Order",
+        "order_placed_success": "Your order has been placed successfully!"
+    }
+}

@@ -1,0 +1,344 @@
+{
+    "categories": {
+        "woman": "Женская мода",
+        "men": "Мужская мода",
+        "electronics": "Электроника",
+        "home": "Дом и образ жизни",
+        "medicine": "Медицина",
+        "sports": "Спорт и отдых",
+        "baby": "Детские товары и игрушки",
+        "groceries": "Продукты и животные",
+        "health": "Здоровье и красота"
+    },
+    "hero": {
+        "iphone": "Серия iPhone 14",
+        "voucher": "Скидка до 10% по ваучеру",
+        "shopNow": "Купить сейчас"
+    },
+    "section2": {
+        "label": "Сегодня",
+        "title": "Флеш-продажи",
+        "viewAll": "Все продукты",
+        "addToCart": "Добавить в корзину",
+        "basket": "В корзину",
+        "timer": {
+            "Days": "Дни",
+            "Hours": "Часы",
+            "Minutes": "Минуты",
+            "Seconds": "Секунды"
+        }
+    },
+    "products": {
+        "gamepad": "Геймпад HAVIT HV-G92",
+        "keyboard": "Клавиатура AK-900",
+        "monitor": "Игровой монитор IPS LCD",
+        "chair": "Кресло S-Series"
+    },
+    "section3": {
+        "redLabel": "Категории",
+        "title": "Поиск по категориям",
+        "catNames": {
+            "Phones": "Телефоны",
+            "Computers": "Компьютеры",
+            "SmartWatch": "Смарт-часы",
+            "Camera": "Камера",
+            "HeadPhones": "Наушники",
+            "Gaming": "Игры"
+        }
+    },
+    "section4": {
+        "label": "В этом месяце",
+        "title": "Бестселлеры",
+        "viewAll": "Посмотреть все",
+        "addToCart": "В корзину",
+        "basket": "В корзину"
+    },
+    "bestSellers": {
+        "coat": "Пальто The North",
+        "bag": "Сумка Gucci duffle",
+        "cooler": "RGB жидкостный кулер",
+        "shelf": "Книжная полка"
+    },
+    "section5": {
+        "category": "Категории",
+        "title": "Улучшите свой музыкальный опыт",
+        "buyNow": "Купить сейчас!",
+        "timer": {
+            "days": "Дни",
+            "hours": "Часы",
+            "mins": "Минуты",
+            "secs": "Секунды"
+        }
+    },
+    "section6": {
+        "label": "Наши товары",
+        "title": "Наши продукты",
+        "viewAll": "Все товары",
+        "addToCart": "В корзину",
+        "basket": "В корзину",
+        "new": "НОВОЕ"
+    },
+    "products_list": {
+        "dogFood": "Сухой корм для собак",
+        "camera": "Камера CANON EOS DSLR",
+        "laptop": "Игровой ноутбук ASUS FHD",
+        "curology": "Набор косметики Curology",
+        "car": "Детский электромобиль",
+        "shoes": "Бутсы Jr. Zoom",
+        "gamepad": "Геймпад GP11 Shooter USB",
+        "jacket": "Зимняя куртка"
+    },
+    "section7": {
+        "badge": "Рекомендуемое",
+        "title": "Новинки",
+        "shopNow": "Купить сейчас",
+        "ps5": {
+            "title": "PlayStation 5",
+            "desc": "Черно-белая версия PS5 уже в продаже."
+        },
+        "woman": {
+            "title": "Женские коллекции",
+            "desc": "Стильные коллекции для женщин."
+        },
+        "speakers": {
+            "title": "Колонки",
+            "desc": "Беспроводные колонки Amazon"
+        },
+        "perfume": {
+            "title": "Парфюмерия",
+            "desc": "GUCCI INTENSE OUD EDP"
+        }
+    },
+    "section8": {
+        "deliveryTitle": "БЕСПЛАТНАЯ ДОСТАВКА",
+        "deliveryDesc": "Бесплатно при заказе от $140",
+        "serviceTitle": "ПОДДЕРЖКА 24/7",
+        "serviceDesc": "Дружелюбная поддержка клиентов",
+        "moneyTitle": "ГАРАНТИЯ ВОЗВРАТА",
+        "moneyDesc": "Возврат денег в течение 30 дней"
+    },
+    "product_details": {
+        "reviews": "Отзывы",
+        "inStock": "В наличии",
+        "colours": "Цвета:",
+        "size": "Размер:",
+        "buyNow": "Купить сейчас",
+        "freeDelivery": "Бесплатная доставка",
+        "postalCode": "Введите почтовый индекс",
+        "returnDelivery": "Условия возврата",
+        "returnText": "Бесплатный возврат 30 дней",
+        "loading": "Загрузка..."
+    },
+    "products_desc": {
+        "gamepad": "Скин для контроллера PS5.",
+        "keyboard": "Механическая клавиатура с RGB подсветкой.",
+        "monitor": "Игровой монитор с частотой 144 Гц.",
+        "chair": "Эргономичное игровое кресло.",
+        "coat": "Теплое зимнее пальто.",
+        "bag": "Роскошная кожаная сумка.",
+        "cooler": "Система жидкостного охлаждения.",
+        "shelf": "Компактная книжная полка.",
+        "dogFood": "Здоровый корм для собак.",
+        "camera": "Профессиональная камера DSLR.",
+        "laptop": "Мощный игровой ноутбук.",
+        "curology": "Набор для ухода за кожей.",
+        "car": "Детский электромобиль.",
+        "shoes": "Футбольные бутсы.",
+        "shooterGamepad": "USB геймпад для ПК.",
+        "jacket": "Стильная куртка."
+    },
+    "auth": {
+        "signUpTitle": "Создать аккаунт",
+        "signUpSubtitle": "Введите данные ниже",
+        "namePlaceholder": "Имя",
+        "emailPlaceholder": "Email",
+        "passwordPlaceholder": "Пароль",
+        "createBtn": "Создать аккаунт",
+        "googleBtn": "Регистрация через Google",
+        "alreadyHave": "Уже есть аккаунт?",
+        "loginLink": "Войти",
+        "success": "Успешно!",
+        "googleSuccess": "Вход через Google выполнен!",
+        "emailError": "Email уже используется!",
+        "logoutSuccess": "Вы успешно вышли из системы!",
+        "noAccount": "Нет аккаунта?",
+        "signUpLink": "Зарегистрироваться"
+    },
+    "not_found": {
+        "breadcrumbHome": "Главная",
+        "breadcrumbError": "Ошибка 404",
+        "title": "404 Не Найдено",
+        "text": "Извините, запрашиваемая вами страница не найдена. Возможно, она была удалена.",
+        "backBtn": "На главную"
+    },
+    "footer": {
+        "subscribe": "Подписаться",
+        "offer": "Скидка 10% на первый заказ",
+        "emailPlaceholder": "Введите ваш Email",
+        "support": "Поддержка",
+        "address": "111 Bijoy sarani, Дакка, Бангладеш.",
+        "account": "Аккаунт",
+        "myAccount": "Мой аккаунт",
+        "loginRegister": "Вход / Регистрация",
+        "cart": "Корзина",
+        "wishlist": "Список желаний",
+        "shop": "Магазин",
+        "quickLink": "Ссылки",
+        "privacyPolicy": "Приватность",
+        "termsOfUse": "Условия",
+        "faq": "FAQ",
+        "contact": "Контакты",
+        "downloadApp": "Скачать приложение",
+        "appOffer": "Скидка $3 для новых пользователей",
+        "googlePlay": "Google Play",
+        "appStore": "App Store",
+        "copyright": "© Rimel 2022. Все права защищены."
+    },
+    "header": {
+        "home": "Главная",
+        "contact": "Контакты",
+        "about": "О нас",
+        "signup": "Регистрация",
+        "searchPlaceholder": "Что вы ищете?",
+        "profile": {
+            "manage": "Управление аккаунтом",
+            "orders": "Мои заказы",
+            "cancellations": "Отмены",
+            "reviews": "Мои отзывы",
+            "logout": "Выйти"
+        }
+    },
+    "top_bar_sale_text": "Летняя распродажа купальников - СКИДКА 50%!",
+    "shopNow": "Купить",
+    "account": {
+        "welcome": "Добро пожаловать!",
+        "breadcrumb": {
+            "home": "Главная",
+            "myAccount": "Мой аккаунт"
+        },
+        "sidebar": {
+            "manageAccount": "Управление аккаунтом",
+            "profile": "Мой профиль",
+            "addressBook": "Адресная книга",
+            "paymentOptions": "Оплата",
+            "myOrders": "Мои заказы",
+            "returns": "Возвраты",
+            "cancellations": "Отмены",
+            "wishlist": "Избранное"
+        },
+        "form": {
+            "title": "Редактировать профиль",
+            "firstName": "Имя",
+            "lastName": "Фамилия",
+            "email": "Email",
+            "address": "Адрес",
+            "passwordChanges": "Изменение пароля",
+            "cancel": "Отмена",
+            "save": "Сохранить",
+            "placeholders": {
+                "currentPass": "Текущий пароль",
+                "newPass": "Новый пароль",
+                "confirmPass": "Подтверждение"
+            }
+        }
+    },
+    "contact": {
+        "home": "Главная",
+        "title": "Контакт",
+        "callToUs": "Позвоните нам",
+        "availableInfo": "Мы работаем 24/7, без выходных.",
+        "writeToUs": "Напишите нам",
+        "emailInfo": "Заполните форму, и мы ответим в течение 24 часов.",
+        "yourName": "Ваше имя *",
+        "yourEmail": "Ваш Email *",
+        "yourPhone": "Ваш телефон *",
+        "yourMessage": "Ваше сообщение",
+        "sendMessage": "Отправить сообщение",
+        "success_msg": "Сообщение успешно отправлено!",
+        "error_msg": "Произошла ошибка. Попробуйте еще раз.",
+        "network_error": "Проверьте интернет-соединение."
+    },
+    "about": {
+        "home": "Главная",
+        "title": "О нас",
+        "story_title": "Наша история",
+        "story_p1": "Основанная в 2015 году, Exclusive является ведущей онлайн-площадкой.",
+        "story_p2": "Exclusive предлагает более 1 миллиона товаров.",
+        "stats_sellers": "Активных продавцов",
+        "stats_monthly": "Ежемесячные продажи",
+        "stats_customers": "Активных клиентов",
+        "stats_annual": "Годовой валовой оборот",
+        "service_delivery_h": "БЕСПЛАТНАЯ И БЫСТРАЯ ДОСТАВКА",
+        "service_delivery_p": "Бесплатная доставка для всех заказов свыше $140",
+        "service_support_h": "ПОДДЕРЖКА КЛИЕНТОВ 24/7",
+        "service_support_p": "Дружелюбная поддержка клиентов в любое время",
+        "service_secure_h": "ГАРАНТИЯ ВОЗВРАТА ДЕНЕГ",
+        "service_secure_p": "Мы возвращаем деньги в течение 30 дней"
+    },
+    "cart": {
+        "home": "Главная",
+        "title": "Корзина",
+        "empty_title": "Ваша корзина пока пуста",
+        "empty_text": "Но это легко исправить — в нашем магазине вас ждут отличные товары!",
+        "table": {
+            "product": "Товар",
+            "price": "Цена",
+            "quantity": "Количество",
+            "subtotal": "Итого"
+        },
+        "btns": {
+            "return": "Вернуться в магазин",
+            "update": "Обновить корзину",
+            "apply": "Применить купон",
+            "checkout": "Оформить заказ"
+        },
+        "coupon": {
+            "placeholder": "Код купона"
+        },
+        "total": {
+            "title": "Итого в корзине",
+            "subtotal": "Подитог",
+            "shipping": "Доставка",
+            "free": "Бесплатно",
+            "total": "Всего"
+        }
+    },
+    "notifications": {
+        "addedToCart": "Товар добавлен в корзину",
+        "addedToWish": "Товар добавлен в избранное",
+        "removedFromWish": "Товар удален из избранного",
+        "login_required": "Для оформления заказа сначала войдите в систему!",
+        "cart_empty": "Ваша корзина пуста!",
+        "order_success": "Ваш заказ успешно принят!",
+        "error_msg": "Произошла ошибка. Попробуйте еще раз.",
+        "network_error": "Проверьте интернет-соединение."
+    },
+    "breadcrumbs": {
+        "account": "Аккаунт",
+        "my_account": "Мой аккаунт",
+        "product": "Товар",
+        "view_cart": "Корзина",
+        "checkout": "Оформление заказа"
+    },
+    "checkout": {
+        "billing_details": "Детали оплаты",
+        "first_name": "Имя",
+        "company_name": "Название компании",
+        "street_address": "Улица и номер дома",
+        "apartment": "Квартира, этаж и т.д. (необязательно)",
+        "city": "Город",
+        "phone": "Номер телефона",
+        "email": "Адрес электронной почты",
+        "save_info": "Сохранить эту информацию для быстрого заказа в следующий раз",
+        "subtotal": "Промежуточный итог",
+        "shipping": "Доставка",
+        "free": "Бесплатно",
+        "total": "Итого",
+        "bank": "Банк",
+        "cash": "Наличными при получении",
+        "coupon_code": "Код купона",
+        "apply_coupon": "Применить купон",
+        "place_order": "Оформить заказ",
+        "order_placed_success": "Ваш заказ успешно оформлен!"
+    }
+}

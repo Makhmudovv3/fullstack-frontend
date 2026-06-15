@@ -1,0 +1,14 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+@media (max-width: 768px) {
+  .Toastify__toast-container {
+    width: 90% !important;
+    left: 5% !important;
+    margin: 0 auto !important;
+  }
+}

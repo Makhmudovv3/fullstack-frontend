@@ -1,0 +1,63 @@
+:root {
+  --primary-color: #DB4444;
+  --text-color: #000000;
+  --bg-color: #ffffff;
+  --max-width: 1170px;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+
+body {
+  width: 100%;
+  overflow-x: hidden;
+  color: var(--text-color);
+  background-color: var(--bg-color);
+}
+
+#root {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.container {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 0 15px;
+  width: 100%;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+/* Responsive Breakpoints */
+@media (max-width: 1024px) {
+  :root {
+    --max-width: 960px;
+  }
+}
+
+@media (max-width: 768px) {
+  :root {
+    --max-width: 720px;
+  }
+  .Toastify__toast-container {
+    width: 90% !important;
+    left: 5% !important;
+    margin: 0 auto !important;
+  }
+}
+
+@media (max-width: 480px) {
+  :root {
+    --max-width: 100%;
+  }
+}

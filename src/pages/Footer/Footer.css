@@ -1,0 +1,295 @@
+.footer-main {
+  background-color: #000;
+  color: #fff;
+  padding: 80px 0 24px 0;
+  font-family: 'Poppins', sans-serif;
+  margin-top: auto;
+}
+
+.footer-container {
+  max-width: 1170px;
+  margin: 0 auto;
+  padding: 0 15px;
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 30px;
+}
+
+.footer-logo {
+  font-size: 24px;
+  font-weight: 700;
+  margin-bottom: 24px;
+}
+
+.footer-subtitle,
+.footer-title {
+  font-size: 20px;
+  font-weight: 500;
+  margin-bottom: 24px;
+}
+
+.footer-text,
+.footer-address,
+.footer-email,
+.footer-phone,
+.footer-small-text {
+  font-size: 16px;
+  margin-bottom: 16px;
+  color: #fafafa;
+  line-height: 24px;
+}
+
+.footer-list {
+  list-style: none;
+  padding: 0;
+}
+
+.footer-list li {
+  margin-bottom: 16px;
+}
+
+.footer-list li a {
+  text-decoration: none;
+  color: #fafafa;
+  font-size: 16px;
+  position: relative;
+  display: inline-block;
+  transition: color 0.3s ease;
+}
+
+.footer-list li a::after {
+  content: '';
+  position: absolute;
+  width: 0;
+  height: 2px;
+  display: block;
+  margin-top: 4px;
+  right: 0;
+  background: #fff;
+  transition: width 0.3s ease, background-color 0.3s ease;
+}
+
+.footer-list li a:hover {
+  color: #fff;
+}
+
+.footer-list li a:hover::after {
+  width: 100%;
+  left: 0;
+  background: #fff;
+}
+
+.footer-subscribe-box {
+  display: flex;
+  align-items: center;
+  border: 1.5px solid #fff;
+  border-radius: 4px;
+  padding: 12px;
+  max-width: 210px;
+}
+
+.footer-subscribe-box input {
+  background: transparent;
+  border: none;
+  outline: none;
+  color: #fff;
+  width: 100%;
+}
+
+.footer-send-icon {
+  cursor: pointer;
+}
+
+.footer-app-wrapper {
+  display: flex;
+  gap: 12px;
+  margin-bottom: 24px;
+}
+
+.footer-qr-code img {
+  width: 80px;
+  height: 80px;
+  background: #fff;
+  padding: 2px;
+}
+
+.footer-app-buttons {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.footer-app-btn {
+  background: #000;
+  border: 0.6px solid #fff;
+  border-radius: 4px;
+  display: flex;
+  align-items: center;
+  padding: 4px 10px;
+  gap: 8px;
+  cursor: pointer;
+  color: #fff;
+  width: 130px;
+}
+
+.footer-app-icon {
+  font-size: 24px;
+}
+
+.footer-app-text {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  line-height: 1.2;
+}
+
+.footer-app-text span {
+  font-size: 8px;
+}
+
+.footer-app-text strong {
+  font-size: 12px;
+}
+
+.footer-social-icons {
+  display: flex;
+  gap: 24px;
+}
+
+.footer-social-icons svg {
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.footer-social-icons svg:hover {
+  color: #DB4444;
+}
+
+.footer-bottom {
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
+  margin-top: 60px;
+  padding-top: 16px;
+  text-align: center;
+  color: #3d3d3d;
+}
+
+@media (max-width: 1024px) {
+  .footer-container {
+    grid-template-columns: repeat(3, 1fr);
+    gap: 50px 30px;
+  }
+}
+
+@media (max-width: 768px) {
+  .footer-container {
+    grid-template-columns: 1fr 1fr;
+    grid-template-areas:
+      "logo logo"
+      "support account"
+      "links download";
+    gap: 40px 20px;
+  }
+
+  .footer-section:nth-child(1) {
+    grid-area: logo;
+    text-align: center;
+  }
+
+  .footer-section:nth-child(2) {
+    grid-area: support;
+  }
+
+  .footer-section:nth-child(3) {
+    grid-area: account;
+  }
+
+  .footer-section:nth-child(4) {
+    grid-area: links;
+  }
+
+  .footer-section:nth-child(5) {
+    grid-area: download;
+  }
+
+  .footer-subscribe-box {
+    margin: 0 auto;
+  }
+}
+
+@media (max-width: 500px) {
+  .footer-main {
+    padding: 40px 0 24px 0;
+  }
+
+  .footer-container {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding-left: 20px;
+    gap: 30px;
+  }
+
+  .footer-section:nth-child(1) {
+    text-align: left;
+  }
+
+  .footer-subscribe-box {
+    margin: 0;
+  }
+}
+
+@media (max-width: 330px) {
+  .footer-container {
+    padding-left: 15px;
+    gap: 25px;
+  }
+
+  .footer-logo {
+    font-size: 22px;
+  }
+
+  .footer-subtitle,
+  .footer-title {
+    font-size: 18px;
+    margin-bottom: 15px;
+  }
+
+  .footer-text,
+  .footer-list li {
+    font-size: 14px;
+    margin-bottom: 10px;
+  }
+
+  .footer-subscribe-box {
+    max-width: 100%;
+    padding: 8px;
+  }
+
+  .footer-app-wrapper {
+    flex-direction: column;
+    gap: 15px;
+  }
+
+  .footer-qr-code img {
+    width: 60px;
+    height: 60px;
+  }
+
+  .footer-app-btn {
+    width: 110px;
+    padding: 3px 8px;
+  }
+
+  .footer-app-text strong {
+    font-size: 10px;
+  }
+
+  .footer-social-icons {
+    gap: 15px;
+  }
+
+  .footer-bottom {
+    margin-top: 30px;
+    font-size: 10px;
+  }
+}

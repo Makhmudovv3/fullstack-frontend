@@ -1,0 +1,128 @@
+.notfound-container {
+    max-width: 1170px;
+    margin: 80px auto;
+    padding: 0 20px;
+}
+
+.breadcrumb {
+    margin-bottom: 100px;
+    font-size: 14px;
+}
+
+.breadcrumb-link {
+    text-decoration: none;
+    color: #000000;
+    opacity: 0.5;
+    transition: 0.3s;
+}
+
+.breadcrumb-link:hover {
+    opacity: 1;
+}
+
+.breadcrumb-separator {
+    margin: 0 10px;
+    opacity: 0.5;
+}
+
+.breadcrumb-current {
+    color: #000000;
+    font-weight: 500;
+}
+
+.notfound-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.notfound-title {
+    font-size: 110px;
+    font-weight: 500;
+    margin-bottom: 40px;
+    letter-spacing: 3px;
+}
+
+.notfound-text {
+    font-size: 16px;
+    margin-bottom: 80px;
+}
+
+.back-home-btn {
+    background-color: #DB4444;
+    color: white;
+    text-decoration: none;
+    padding: 16px 48px;
+    border-radius: 4px;
+    font-weight: 500;
+    transition: 0.3s;
+}
+
+.back-home-btn:hover {
+    background-color: #e03a3a;
+}
+
+@media (max-width: 768px) {
+    .notfound-title {
+        font-size: 60px;
+        margin-bottom: 20px;
+    }
+
+    .notfound-container {
+        margin: 40px auto;
+    }
+
+    .breadcrumb {
+        margin-bottom: 60px;
+    }
+
+    .notfound-text {
+        margin-bottom: 40px;
+    }
+}
+
+@media (max-width: 480px) {
+    .notfound-title {
+        font-size: 40px;
+    }
+
+    .notfound-text {
+        font-size: 14px;
+        padding: 0 10px;
+    }
+
+    .back-home-btn {
+        padding: 12px 30px;
+        font-size: 14px;
+    }
+}
+
+@media (max-width: 330px) {
+    .notfound-container {
+        padding: 0 15px;
+        margin: 30px auto;
+    }
+
+    .notfound-title {
+        font-size: 32px;
+        letter-spacing: 1px;
+    }
+
+    .notfound-text {
+        font-size: 13px;
+        margin-bottom: 30px;
+    }
+
+    .back-home-btn {
+        width: 100%;
+        text-align: center;
+        padding: 12px 0;
+    }
+
+    .breadcrumb {
+        font-size: 12px;
+        margin-bottom: 40px;
+    }
+}

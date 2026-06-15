@@ -1,0 +1,344 @@
+{
+    "categories": {
+        "woman": "Ayollar modasi",
+        "men": "Erkaklar modasi",
+        "electronics": "Elektronika",
+        "home": "Uy va turmush tarzi",
+        "medicine": "Tibbiyot",
+        "sports": "Sport va ochiq havo",
+        "baby": "Bolalar va o'yinchoqlar",
+        "groceries": "Oziq-ovqat va uy hayvonlari",
+        "health": "Sog'liqni saqlash va go'zallik"
+    },
+    "hero": {
+        "iphone": "iPhone 14 seriyasi",
+        "voucher": "Voucher bilan 10% gacha chegirma",
+        "shopNow": "Hozir xarid qiling"
+    },
+    "section2": {
+        "label": "Bugungi",
+        "title": "Tezkor chegirmalar",
+        "viewAll": "Barcha mahsulotlar",
+        "addToCart": "Savatga qo'shish",
+        "basket": "Savatga",
+        "timer": {
+            "Days": "Kun",
+            "Hours": "Soat",
+            "Minutes": "Daqiqa",
+            "Seconds": "Soniya"
+        }
+    },
+    "products": {
+        "gamepad": "HAVIT HV-G92 Gamepad",
+        "keyboard": "AK-900 Simli klaviatura",
+        "monitor": "IPS LCD o'yin monitori",
+        "chair": "S-Series qulay kreslo"
+    },
+    "section3": {
+        "redLabel": "Kategoriyalar",
+        "title": "Kategoriya bo'yicha ko'rish",
+        "catNames": {
+            "Phones": "Telefonlar",
+            "Computers": "Kompyuterlar",
+            "SmartWatch": "Aqlli soat",
+            "Camera": "Kamera",
+            "HeadPhones": "Quloqchinlar",
+            "Gaming": "Geyming"
+        }
+    },
+    "section4": {
+        "label": "Shu oyda",
+        "title": "Eng ko'p sotilgan mahsulotlar",
+        "viewAll": "Barchasini ko'rish",
+        "addToCart": "Savatga qo'shish",
+        "basket": "Savatga"
+    },
+    "bestSellers": {
+        "coat": "The North paltosi",
+        "bag": "Gucci duffle sumkasi",
+        "cooler": "RGB suyuqlikli CPU sovutgichi",
+        "shelf": "Kichik kitob javoni"
+    },
+    "section5": {
+        "category": "Kategoriyalar",
+        "title": "Musiqa zavqini yanada oshiring",
+        "buyNow": "Hozir sotib oling!",
+        "timer": {
+            "days": "Kun",
+            "hours": "Soat",
+            "mins": "Daqiqa",
+            "secs": "Soniya"
+        }
+    },
+    "section6": {
+        "label": "Mahsulotlarimiz",
+        "title": "Mahsulotlarimiz bilan tanishing",
+        "viewAll": "Barcha mahsulotlarni ko'rish",
+        "addToCart": "Savatchaga",
+        "basket": "Savatchaga",
+        "new": "YANGI"
+    },
+    "products_list": {
+        "dogFood": "Itlar uchun quruq yem",
+        "camera": "CANON EOS DSLR kamerasi",
+        "laptop": "ASUS FHD o'yin noutbuki",
+        "curology": "Curology kosmetika to'plami",
+        "car": "Bolalar elektromobili",
+        "shoes": "Jr. Zoom futbol butsalari",
+        "gamepad": "GP11 Shooter USB geympad",
+        "jacket": "Astarli qishki kurtka"
+    },
+    "section7": {
+        "badge": "Tanlanganlar",
+        "title": "Yangi kelganlar",
+        "shopNow": "Hozir xarid qiling",
+        "ps5": {
+            "title": "PlayStation 5",
+            "desc": "PS5 ning qora va oq versiyasi sotuvga chiqmoqda."
+        },
+        "woman": {
+            "title": "Ayollar to'plami",
+            "desc": "Sizga o'zgacha kayfiyat bag'ishlovchi ayollar to'plami."
+        },
+        "speakers": {
+            "title": "Kalonkalar",
+            "desc": "Amazon simsiz karnaylari"
+        },
+        "perfume": {
+            "title": "Atirlar",
+            "desc": "GUCCI INTENSE OUD EDP atiri"
+        }
+    },
+    "section8": {
+        "deliveryTitle": "BEPUL VA TEZKOR YETKAZIB BERISH",
+        "deliveryDesc": "140$ dan yuqori barcha buyurtmalar uchun bepul yetkazib berish",
+        "serviceTitle": "24/7 MIJOZLARGA XIZMAT KO'RSATISH",
+        "serviceDesc": "Haftada 7 kun, kuniga 24 soat do'stona yordam",
+        "moneyTitle": "PULNI QAYTARISH KAFOLATI",
+        "moneyDesc": "Biz 30 kun ichida pulni qaytaramiz"
+    },
+    "product_details": {
+        "reviews": "Sharhlar",
+        "inStock": "Omborda bor",
+        "colours": "Ranglar:",
+        "size": "O'lcham:",
+        "buyNow": "Hozir sotib olish",
+        "freeDelivery": "Bepul yetkazib berish",
+        "postalCode": "Pochta indeksingizni kiriting",
+        "returnDelivery": "Qaytarish shartlari",
+        "returnText": "30 kun ichida bepul qaytarish",
+        "loading": "Yuklanmoqda..."
+    },
+    "products_desc": {
+        "gamepad": "PlayStation 5 geympadi uchun skin. Yuqori sifatli vinil.",
+        "keyboard": "Bardoshli tugmalarga ega RGB yoritgichli mexanik klaviatura.",
+        "monitor": "144 Gts yangilanish tezligiga ega o'yin monitori.",
+        "chair": "Premium charmdan ishlangan ergonomik o'yin kreslosi.",
+        "coat": "Suv o'tkazmaydigan materialdan tayyorlangan issiq palto.",
+        "bag": "Sayohat uchun hashamatli charm sumka.",
+        "cooler": "RGB yoritgichli yuqori samarali suyuqlik sovutish tizimi.",
+        "shelf": "Ofisingiz uchun ixcham yog'och kitob javoni.",
+        "dogFood": "Barcha turdagi itlar uchun sog'lom quruq yem.",
+        "camera": "Professional DSLR kamera.",
+        "laptop": "Kuchli o'yin noutbuki.",
+        "curology": "Barcha turdagi terilar uchun parvarish to'plami.",
+        "car": "Masofadan boshqariladigan bolalar elektr mashinasi.",
+        "shoes": "Yosh futbolchilar uchun professional butsalar.",
+        "shooterGamepad": "Kompyuter va konsol o'yinlari uchun USB geympad.",
+        "jacket": "Zamonaviy qavrilgan kurtka."
+    },
+    "auth": {
+        "signUpTitle": "Hisob yaratish",
+        "signUpSubtitle": "Ma'lumotlaringizni quyida kiriting",
+        "namePlaceholder": "Ism",
+        "emailPlaceholder": "Email",
+        "passwordPlaceholder": "Parol",
+        "createBtn": "Hisob yaratish",
+        "googleBtn": "Google orqali ro'yxatdan o'tish",
+        "alreadyHave": "Hisobingiz bormi?",
+        "loginLink": "Kirish",
+        "success": "Muvaffaqiyatli!",
+        "googleSuccess": "Google orqali kirdingiz!",
+        "emailError": "Bu email band!",
+        "logoutSuccess": "Tizimdan muvaffaqiyatli chiqdingiz!",
+        "noAccount": "Akkauntingiz yo'qmi?",
+        "signUpLink": "Ro'yxatdan o'tish"
+    },
+    "not_found": {
+        "breadcrumbHome": "Bosh sahifa",
+        "breadcrumbError": "404 Xatolik",
+        "title": "404 Sahifa topilmadi",
+        "text": "Kechirasiz, siz qidirayotgan sahifa vaqtinchalik o'chirilgan yoki manzili o'zgartirilgan bo'lishi mumkin.",
+        "backBtn": "Bosh sahifaga qaytish"
+    },
+    "footer": {
+        "subscribe": "Obuna bo'lish",
+        "offer": "Birinchi buyurtmangiz uchun 10% chegirma oling",
+        "emailPlaceholder": "Emailingizni kiriting",
+        "support": "Yordam",
+        "address": "111 Bijoy sarani, Dakka, Bangladesh.",
+        "account": "Hisob",
+        "myAccount": "Mening hisobim",
+        "loginRegister": "Kirish / Ro'yxatdan o'tish",
+        "cart": "Savat",
+        "wishlist": "Istaklar ro'yxati",
+        "shop": "Do'kon",
+        "quickLink": "Tezkor havolalar",
+        "privacyPolicy": "Maxfiylik siyosati",
+        "termsOfUse": "Foydalanish shartlari",
+        "faq": "Savollar",
+        "contact": "Aloqa",
+        "downloadApp": "Ilovani yuklab olish",
+        "appOffer": "Yangi foydalanuvchilar uchun 3$ chegirma",
+        "googlePlay": "Google Play",
+        "appStore": "App Store",
+        "copyright": "© Mualliflik huquqi Rimel 2022."
+    },
+    "header": {
+        "home": "Bosh sahifa",
+        "contact": "Aloqa",
+        "about": "Haqida",
+        "signup": "Ro'yxatdan o'tish",
+        "searchPlaceholder": "Nima qidiryapsiz?",
+        "profile": {
+            "manage": "Hisobni boshqarish",
+            "orders": "Buyurtmalarim",
+            "cancellations": "Bekor qilinganlar",
+            "reviews": "Sharhlarim",
+            "logout": "Chiqish"
+        }
+    },
+    "top_bar_sale_text": "Barcha cho'milish kiyimlari uchun yozgi savdo - 50% CHEGIRMA!",
+    "shopNow": "Sotib olish",
+    "account": {
+        "welcome": "Xush kelibsiz!",
+        "breadcrumb": {
+            "home": "Bosh sahifa",
+            "myAccount": "Mening hisobim"
+        },
+        "sidebar": {
+            "manageAccount": "Hisobni boshqarish",
+            "profile": "Mening profilim",
+            "addressBook": "Manzillar kitobi",
+            "paymentOptions": "To'lov variantlari",
+            "myOrders": "Buyurtmalarim",
+            "returns": "Qaytarishlar",
+            "cancellations": "Bekor qilishlar",
+            "wishlist": "Saralanganlar"
+        },
+        "form": {
+            "title": "Profilni tahrirlash",
+            "firstName": "Ism",
+            "lastName": "Familiya",
+            "email": "Email",
+            "address": "Manzil",
+            "passwordChanges": "Parolni o'zgartirish",
+            "cancel": "Bekor qilish",
+            "save": "Saqlash",
+            "placeholders": {
+                "currentPass": "Joriy parol",
+                "newPass": "Yangi parol",
+                "confirmPass": "Tasdiqlash"
+            }
+        }
+    },
+    "contact": {
+        "home": "Bosh sahifa",
+        "title": "Aloqa",
+        "callToUs": "Bizga qo'ng'iroq qiling",
+        "availableInfo": "Biz haftada 7 kun, 24 soat davomida tayyormiz.",
+        "writeToUs": "Bizga yozing",
+        "emailInfo": "Formani to'ldiring va biz 24 soat ichida javob beramiz.",
+        "yourName": "Ismingiz *",
+        "yourEmail": "Emailingiz *",
+        "yourPhone": "Telefoningiz *",
+        "yourMessage": "Xabaringiz",
+        "sendMessage": "Xabarni yuborish",
+        "success_msg": "Xabar muvaffaqiyatli yuborildi!",
+        "error_msg": "Xatolik yuz berdi. Qayta urinib ko'ring.",
+        "network_error": "Internet aloqasini tekshiring."
+    },
+    "about": {
+        "home": "Bosh sahifa",
+        "title": "Haqimizda",
+        "story_title": "Bizning hikoyamiz",
+        "story_p1": "2015-yilda tashkil etilgan Exclusive Janubiy Osiyodagi yetakchi onlayn savdo platformalaridan biri bo‘lib, Bangladeshda faol faoliyat yuritadi.",
+        "story_p2": "Exclusive 1 milliondan ortiq mahsulotlarni taklif qiladi va juda tez sur’atlarda rivojlanmoqda.",
+        "stats_sellers": "Sotuvchilar faol",
+        "stats_monthly": "Oylik mahsulot savdosi",
+        "stats_customers": "Mijozlar faol",
+        "stats_annual": "Yillik yalpi savdo",
+        "service_delivery_h": "BEPUL VA TEZKOR YETKAZIB BERISH",
+        "service_delivery_p": "Barcha $140 dan yuqori buyurtmalar uchun bepul yetkazib berish",
+        "service_support_h": "24/7 MIJOZLARNI QO'LLAB-QUVVATLASH",
+        "service_support_p": "Mijozlarga doimiy do'stona yordam",
+        "service_secure_h": "PUL QAYTARIB BERISH KAFOLATI",
+        "service_secure_p": "Biz 30 kun ichida pulingizni qaytaramiz"
+    },
+    "cart": {
+        "home": "Bosh sahifa",
+        "title": "Savat",
+        "empty_title": "Savatingiz hozircha bo'sh",
+        "empty_text": "Lekin buni to'g'irlash oson — do'konimizda sizni ajoyib mahsulotlar kutmoqda!",
+        "table": {
+            "product": "Mahsulot",
+            "price": "Narxi",
+            "quantity": "Miqdori",
+            "subtotal": "Jami"
+        },
+        "btns": {
+            "return": "Do'konga qaytish",
+            "update": "Savatni yangilash",
+            "apply": "Kuponni qo'llash",
+            "checkout": "To'lovga o'tish"
+        },
+        "coupon": {
+            "placeholder": "Kupon kodi"
+        },
+        "total": {
+            "title": "Savat jami",
+            "subtotal": "Oraliq jami",
+            "shipping": "Yetkazib berish",
+            "free": "Bepul",
+            "total": "Jami"
+        }
+    },
+    "notifications": {
+        "addedToCart": "Mahsulot savatga qo'shildi",
+        "addedToWish": "Mahsulot savatga qo'shildi",
+        "removedFromWish": "Mahsulot olib tashlandi",
+        "login_required": "Buyurtma berish uchun avval tizimga kiring!",
+        "cart_empty": "Savatingiz hozircha bo'sh!",
+        "order_success": "Buyurtmangiz muvaffaqiyatli qabul qilindi!",
+        "error_msg": "Xatolik yuz berdi. Qayta urinib ko'ring.",
+        "network_error": "Internet aloqasini tekshiring."
+    },
+    "breadcrumbs": {
+        "account": "Hisob",
+        "my_account": "Mening hisobim",
+        "product": "Mahsulot",
+        "view_cart": "Savat",
+        "checkout": "To'lovni rasmiylashtirish"
+    },
+    "checkout": {
+        "billing_details": "To'lov tafsilotlari",
+        "first_name": "Ism",
+        "company_name": "Kompaniya nomi",
+        "street_address": "Ko'cha va uy raqami",
+        "apartment": "Kvartira, qavat va h.k. (ixtiyoriy)",
+        "city": "Shahar",
+        "phone": "Telefon raqami",
+        "email": "Elektron pochta manzili",
+        "save_info": "Keyingi safar tezroq xarid qilish uchun ushbu ma'lumotlarni saqlash",
+        "subtotal": "Oraliq jami",
+        "shipping": "Yetkazib berish",
+        "free": "Bepul",
+        "total": "Jami",
+        "bank": "Bank",
+        "cash": "Yetkazib berilganda naqd to'lash",
+        "coupon_code": "Kupon kodi",
+        "apply_coupon": "Kuponni qo'llash",
+        "place_order": "Buyurtma berish",
+        "order_placed_success": "Buyurtmangiz muvaffaqiyatli qabul qilindi!"
+    }
+}
